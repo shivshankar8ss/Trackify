@@ -1,0 +1,15 @@
+{
+  "name": "trackify",
+  "version": "1.0.0",
+  "description": "Project Management Plateform backend project",
+  "license": "ISC",
+  "author": "shivshankar",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
